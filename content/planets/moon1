@@ -129,7 +129,7 @@ icon: planet
 # Default core block for launch loadouts.
 defaultCore: core-nucleus
 # The parent of the planet.
-parent: surpluo
+parent: serpluo
 # The parent of the whole solar system the planet is in. Affects lighting.
 solarSystem: sun
 # Possible planets that could be landed on from this planet.
