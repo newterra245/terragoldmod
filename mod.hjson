@@ -1,12 +1,8 @@
-name: ep-json
-displayName: JSON Example Solar System!
-author: Slotterleet
-subtitle: Themelight included
+name: terramod
+displayName: Terramod!
+author: Terragold
+subtitle: The beginning is at its end.
 description: 
-'''
-This planet has (almost) every single field you can declare in JSON planets. Press the "Repo" button below to see the source code.
-
-This is NOT meant to be played.
-'''
+011110101011111110101010100100101001000100101100101010110011101001101001010101010100000010100101001001010010100100100010100100010010110110011010001010101010100101010100101010100101010000010010101010011001010101001010101001010010101010100101010
 repo: Slotterleet/example-planet-json
 minGameVersion: 146
